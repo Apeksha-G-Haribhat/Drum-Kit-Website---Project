@@ -18,4 +18,4 @@ A fun interactive drum kit built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Live Demo
-[Click here to see it live]- 
+[Click here to see it live]-  https://apeksha-g-haribhat.github.io/Drum-Kit-Website---Project/
